@@ -4,6 +4,6 @@
     "email": "randallalquicer21@gmail.com"
   },
   "records": {
-    "CNAME": "dallss.github.io"
+    "NS": ["amit.ns.cloudflare.com", "tani.ns.cloudflare.com"]
   }
 }
